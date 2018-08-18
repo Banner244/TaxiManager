@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<People>
+  <Person>
+    <ID>0</ID>
+    <Nachname>Mustermann</Nachname>
+    <Vorname>Max</Vorname>
+    <Bemerkung>Muster</Bemerkung>
+  </Person>
+  <Person>
+    <ID>4</ID>
+    <Nachname>Warawa</Nachname>
+    <Vorname>Alexander</Vorname>
+    <Bemerkung>Gerd</Bemerkung>
+  </Person>
+  <Person>
+    <ID>5</ID>
+    <Nachname>Der</Nachname>
+    <Vorname>Otto</Vorname>
+    <Bemerkung>32</Bemerkung>
+  </Person>
+</People>

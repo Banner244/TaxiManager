@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<Adress>
+  <Daten>
+    <Stadt>Musterstadt</Stadt>
+    <Strasse>MusterStraße</Strasse>
+    <PLZ>Muster</PLZ>
+    <Station>MusterStation</Station>
+  </Daten>
+  <Daten>
+    <Stadt>Detmold</Stadt>
+    <Strasse>Stoddartstraße</Strasse>
+    <PLZ>32758</PLZ>
+    <Station>BHF</Station>
+  </Daten>
+  <Daten>
+    <Stadt>Detmold</Stadt>
+    <Strasse>Bielefelder</Strasse>
+    <PLZ>32756</PLZ>
+    <Station>BHF</Station>
+  </Daten>
+  <Daten>
+    <Stadt>detmold</Stadt>
+    <Strasse>eggeweg</Strasse>
+    <PLZ>1212</PLZ>
+    <Station>Theater</Station>
+  </Daten>
+  <Daten>
+    <Stadt>Detmold</Stadt>
+    <Strasse>Temdestraße</Strasse>
+    <PLZ>32756</PLZ>
+    <Station>BHF</Station>
+  </Daten>
+  <Daten>
+    <Stadt>Detmold</Stadt>
+    <Strasse>Temdestr</Strasse>
+    <PLZ>32758</PLZ>
+    <Station>Theater</Station>
+  </Daten>
+  <Daten>
+    <Stadt>Berlin</Stadt>
+    <Strasse>kreisweg</Strasse>
+    <PLZ>41292</PLZ>
+    <Station>BHF</Station>
+  </Daten>
+</Adress>
